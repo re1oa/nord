@@ -1,0 +1,20 @@
+{
+  "name": "nord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "+тест"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "author": "MoscowSity",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "mongoose": "^6.3.2",
+    "node-fetch": "^3.2.4"
+  }
+}
